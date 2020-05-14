@@ -7,6 +7,16 @@
 e como utilizar suas funcionalidades corretamente.*
 
 
+### [#](https://www.alura.com.br/artigos/guia-de-unidades-no-css) Guia de Unidades no CSS
+
+**Previa:**
+>*Existem algumas unidades que provavelmente você já está acostumado, 
+como o famoso pixel! Nesse post, abordaremos todas as unidades de medidas 
+presentes atualmente e como elas podem nos ajudar durante sua jornada como 
+desenvolvedor web. Antes de prosseguirmos, precisamos entender qual a diferença 
+entre medida absoluta e medida relativa.*
+
+
 ## Prática/Exercícios
 
 ### [#](https://flexboxfroggy.com/#pt-br) FLEXBOX FROGGY
