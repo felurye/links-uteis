@@ -16,6 +16,23 @@ presentes atualmente e como elas podem nos ajudar durante sua jornada como
 desenvolvedor web. Antes de prosseguirmos, precisamos entender qual a diferença 
 entre medida absoluta e medida relativa.*
 
+### [#](https://developer.mozilla.org/pt-BR/docs/Web/CSS/grid) Grid
+
+**Previa:**
+>*A propriedade grid do CSS é uma abreviação das propriedades que definem todas as 
+propriedades da grade explícita (grid-template-rows, grid-template-columns, e grid-template-areas),
+e todas as propriedades implícitas da grade (grid-auto-rows, grid-auto-columns, e grid-auto-flow),
+em uma única declaração.*
+
+
+### [#](https://css-tricks.com/snippets/css/complete-guide-grid/) A Complete Guide to Grid
+
+**Previa:**
+>*CSS Grid Layout is the most powerful layout system available in CSS.
+It is a 2-dimensional system, meaning it can handle both columns and rows, 
+unlike flexbox which is largely a 1-dimensional system.*
+
+
 
 ## Prática/Exercícios
 
