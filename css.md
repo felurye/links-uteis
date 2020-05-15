@@ -25,3 +25,10 @@ entre medida absoluta e medida relativa.*
 >*Flexbox Froggy, um jogo onde você pode ajudar Froggy e seus amigos ao 
 escrever código CSS! Guie o sapo à vitória-régia na direita usando a propriedade 
 justify-content, que alinha itens horizontalmente.*
+
+
+### [#](https://cssgridgarden.com/) GRID GARDEN
+
+**Previa:**
+>* Grid Garden, where you write CSS code to grow your carrot garden! Water only 
+the areas that have carrots by using the grid-column-start property.*
