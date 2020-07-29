@@ -32,3 +32,11 @@ exportado e editado para testes em Java, C#, etc.*
 Dessa forma, as necessidades reais do usuário são descritas. Selenium WebDriver é uma ferramenta que simula ações do usuário em navegadores web. 
 Este artigo descreve como usar o Cucumber, juntamente com Selenium WebDriver para implementar testes automatizados com alto valor de negócio e de baixa manutenção.*
 
+_______________________________
+## Vídeos/Palestras
+
+### [#](https://www.youtube.com/watch?v=_ICN3Sq_rII) Utilizando o padrão Page Object - Augusta Marques
+
+**Previa:**
+>*Augusta Marques - Senior QA Engineer na Youse, fala sobre "Utilizando o padrão Page Object para melhorar a manutenibilidade de testes com Espresso" no Android Dev Conference 2017.*
+
