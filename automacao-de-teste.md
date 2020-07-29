@@ -32,6 +32,14 @@ exportado e editado para testes em Java, C#, etc.*
 Dessa forma, as necessidades reais do usuário são descritas. Selenium WebDriver é uma ferramenta que simula ações do usuário em navegadores web. 
 Este artigo descreve como usar o Cucumber, juntamente com Selenium WebDriver para implementar testes automatizados com alto valor de negócio e de baixa manutenção.*
 
+
+### [#](https://www.guru99.com/xpath-selenium.html) XPath in Selenium WebDriver: Complete Tutorial para aplicativos web
+
+**Previa:**
+>*In Selenium automation, if the elements are not found by the general locators like id, class, name, etc. then XPath is used to find an element on the web page.
+In this tutorial, we will learn about the xpath and different XPath expression to find the complex or dynamic elements, whose attributes changes dynamically on refresh or any operations.*
+
+
 _______________________________
 ## Vídeos/Palestras
 
