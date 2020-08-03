@@ -7,6 +7,11 @@
 >*Muitas vezes pela internet em busca de novos conhecimentos nos deparamos com diversas siglas, estando elas anunciadas em algum requisito para desenvolvimento de
 sistema ou até mesmo citadas em alguma abordagem técnica.*
 
+### [#](http://www.codeatest.com/testes-aceitacao-automatizados-selenium/) Testes de aceitação automatizados com Selenium
+
+**Previa:**
+>*Fazer os testes de aceitação de uma aplicação web costuma ser bastante trabalhoso. A cada nova versão lançada da aplicação existe um conjunto de funcionalidades que sempre precisam ser testadas repetidas vezes. Inúmeras vezes. Além, é claro, das novas funcionalidades que foram adicionadas e que também precisam ser testadas. Portanto, estes testes consomem muito tempo e geram muito (re)trabalho para serem realizados. É aí que o Selenium pode ajudar.*
+
 
 ### [#](https://www.thoughtworks.com/pt/insights/blog/3-essential-basics-setting-automation-suite-web-apps) 3 noções básicas essenciais para a criação de uma suíte de automação para aplicativos web
 
@@ -37,6 +42,12 @@ código de teste e como reutilizá-lo. Vou trazer algumas dessas práticas para 
 no ambiente real da aplicação, em função da sua integração direta com o navegador. Através de uma extensão podemos criar os scripts 
 de testes de forma simples e utilizar nas mais diversas linguagens de programação. No geral, o script é gerado em HTML, porém pode ser 
 exportado e editado para testes em Java, C#, etc.*
+
+### [#](https://medium.com/dev-cave/webdriverwait-fazendo-o-selenium-esperar-a093abeb747b) WebDriverWait — Fazendo o Selenium esperar
+
+**Previa:**
+>*No dia a dia de automação de testes encontramos problemas com a velocidade da execução dos testes. Acontece que, quando fazemos os cliques manualmente, 
+é natural esperarmos uma resposta do sistema para clicarmos novamente. Existe um grande trabalho de usabilidade para dar os melhores feedbacks ao usuário.*
 
 
 ### [#](https://www.guru99.com/xpath-selenium.html) XPath in Selenium WebDriver: Complete Tutorial para aplicativos web
