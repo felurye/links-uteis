@@ -1,10 +1,19 @@
 ## Artigos/Tutoriais
 
-### [#](http://shipit.resultadosdigitais.com.br/blog/5-boas-praticas-para-uso-de-cucumber/) 5 boas práticas para uso de Cucumber
+
+### [#](https://www.eduardopires.net.br/2012/06/ddd-tdd-bdd/) DDD, TDD, BDD, Afinal o que são essas siglas?
 
 **Previa:**
->*Adotamos Cucumber para criar nossos testes de aceitação e aplicamos algumas práticas de uso para mantermos a qualidade do 
-código de teste e como reutilizá-lo. Vou trazer algumas dessas práticas para te ajudar a saber usar da melhor forma essa ferramenta.*
+>*Muitas vezes pela internet em busca de novos conhecimentos nos deparamos com diversas siglas, estando elas anunciadas em algum requisito para desenvolvimento de
+sistema ou até mesmo citadas em alguma abordagem técnica.*
+
+
+### [#](https://www.thoughtworks.com/pt/insights/blog/3-essential-basics-setting-automation-suite-web-apps) 3 noções básicas essenciais para a criação de uma suíte de automação para aplicativos web
+
+**Previa:**
+>*O Cucumber é uma ferramenta que suporta Behavior Driven Development (BDD), que consiste em descrever o comportamento de um usuário. 
+Dessa forma, as necessidades reais do usuário são descritas. Selenium WebDriver é uma ferramenta que simula ações do usuário em navegadores web. 
+Este artigo descreve como usar o Cucumber, juntamente com Selenium WebDriver para implementar testes automatizados com alto valor de negócio e de baixa manutenção.*
 
 
 ### [#](http://shipit.resultadosdigitais.com.br/blog/estruturando-seu-projeto-com-bdd-e-cucumber/) Estruturando seu projeto com BDD e Cucumber
@@ -14,6 +23,11 @@ código de teste e como reutilizá-lo. Vou trazer algumas dessas práticas para 
 limpo e que passe segurança ao deployar em produção. 
 Sendo assim, práticas como design de código utilizando TDD (Test Driven Development) são sempre bem-vindas.
 Mas quem nunca teve dúvidas sobre o que testar? O que não testar? Como pensar primeiro nos testes?*
+### [#](http://shipit.resultadosdigitais.com.br/blog/5-boas-praticas-para-uso-de-cucumber/) 5 boas práticas para uso de Cucumber
+
+**Previa:**
+>*Adotamos Cucumber para criar nossos testes de aceitação e aplicamos algumas práticas de uso para mantermos a qualidade do 
+código de teste e como reutilizá-lo. Vou trazer algumas dessas práticas para te ajudar a saber usar da melhor forma essa ferramenta.*
 
 
 ### [#](https://www.devmedia.com.br/dominando-o-selenium-web-driver-na-pratica/34183) Dominando o Selenium Web Driver na prática
@@ -23,14 +37,6 @@ Mas quem nunca teve dúvidas sobre o que testar? O que não testar? Como pensar 
 no ambiente real da aplicação, em função da sua integração direta com o navegador. Através de uma extensão podemos criar os scripts 
 de testes de forma simples e utilizar nas mais diversas linguagens de programação. No geral, o script é gerado em HTML, porém pode ser 
 exportado e editado para testes em Java, C#, etc.*
-
-
-### [#](https://www.thoughtworks.com/pt/insights/blog/3-essential-basics-setting-automation-suite-web-apps) 3 noções básicas essenciais para a criação de uma suíte de automação para aplicativos web
-
-**Previa:**
->*O Cucumber é uma ferramenta que suporta Behavior Driven Development (BDD), que consiste em descrever o comportamento de um usuário. 
-Dessa forma, as necessidades reais do usuário são descritas. Selenium WebDriver é uma ferramenta que simula ações do usuário em navegadores web. 
-Este artigo descreve como usar o Cucumber, juntamente com Selenium WebDriver para implementar testes automatizados com alto valor de negócio e de baixa manutenção.*
 
 
 ### [#](https://www.guru99.com/xpath-selenium.html) XPath in Selenium WebDriver: Complete Tutorial para aplicativos web
