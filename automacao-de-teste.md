@@ -57,6 +57,11 @@ exportado e editado para testes em Java, C#, etc.*
 In this tutorial, we will learn about the xpath and different XPath expression to find the complex or dynamic elements, whose attributes changes dynamically on refresh or any operations.*
 
 
+### [#]https://www.guru99.com/using-contains-sbiling-ancestor-to-find-element-in-selenium.html) XPath Contains, Sibling, Ancestor, AND OR, Parent, Start with, Axes in Selenium Webdriver
+
+**Previa:**
+>*If a simple XPath is not able to find a complicated web element for our test script, we need to use the functions from XPath 1.0 library. With the combination of these functions, we can create more specific XPath. Let's discuss a 3 such functions – 1. Contains; 2. Sibling; 3. Ancestor; 4.And OR; 5. Parent;*
+
 _______________________________
 ## Vídeos/Palestras
 
