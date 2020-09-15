@@ -43,6 +43,14 @@ no ambiente real da aplicação, em função da sua integração direta com o na
 de testes de forma simples e utilizar nas mais diversas linguagens de programação. No geral, o script é gerado em HTML, porém pode ser 
 exportado e editado para testes em Java, C#, etc.*
 
+### [#](https://medium.com/@rafaelberam/automa%C3%A7%C3%A3o-de-testes-cucumber-selenium-em-ruby-introdu%C3%A7%C3%A3o-e-conceitos-2bfa28793980) Automação de Testes: Cucumber + Selenium em Ruby (Introdução e conceitos)
+
+**Previa:**
+>*Muito se fala sobre testes automatizados e sua importância dentro do contexto empresarial, por diminuir os custos relacionados ao tempo de 
+execução de tarefas demoradas como testes de regressão e tarefas repetitivas. Porém ainda há uma resistência em colocar em produção essas 
+técnicas automação, sendo ou por falta de conhecimento ou mão de obra especializada.*
+
+
 ### [#](https://medium.com/dev-cave/webdriverwait-fazendo-o-selenium-esperar-a093abeb747b) WebDriverWait — Fazendo o Selenium esperar
 
 **Previa:**
