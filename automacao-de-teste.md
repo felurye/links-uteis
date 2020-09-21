@@ -28,6 +28,23 @@ Este artigo descreve como usar o Cucumber, juntamente com Selenium WebDriver par
 limpo e que passe segurança ao deployar em produção. 
 Sendo assim, práticas como design de código utilizando TDD (Test Driven Development) são sempre bem-vindas.
 Mas quem nunca teve dúvidas sobre o que testar? O que não testar? Como pensar primeiro nos testes?*
+
+
+### [#](https://www.foreach.be/blog/9-tips-improving-cucumber-test-readability) 9 tips for improving Cucumber test readability
+
+**Previa:**
+>*Even when automating UI tests, it is important to keep your scenarios as readable as possible,
+or you threaten to lose all benefits from a plain-text approach. In this post I’ll give you some tips that can help you with the basics.*
+
+
+### [#](https://blog.engineyard.com/15-expert-tips-for-using-cucumber) 15 Expert Tips for Using Cucumber
+
+**Previa:**
+>*In retrospect, I don’t really like the term Best Practice—the value of most practices is very much context dependent. 
+That said, some ways of doing things are just generally better than others, so here are some of those good things to keep
+in mind. I’ll comment briefly on each one.*
+
+
 ### [#](http://shipit.resultadosdigitais.com.br/blog/5-boas-praticas-para-uso-de-cucumber/) 5 boas práticas para uso de Cucumber
 
 **Previa:**
