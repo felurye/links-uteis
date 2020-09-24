@@ -11,3 +11,8 @@ Falaremos um pouco sobre markdown e focaremos em formatação, imagens, GIFs, li
 **Previa:**
 > *Estou usando uma ferramenta online para fazer o controle de versão do meu repositório git, gostaria de alterar o remoto para usar outra referência.
 Como alterar o repositório remoto (origin) do git?*
+
+### [#](https://medium.com/vtex-lab/por-que-voc%C3%AA-deveria-usar-git-rebase-d75b41e900f2) Por que você deveria usar git rebase
+
+**Previa:**
+> *Os conflitos surgem quando duas pessoas fazem alterações em um mesmo arquivo. No caso de arquivos de texto, esses conflitos ocorrem quando as duas partes alteram a mesma linha do arquivo. Existem ferramentas para resolver esses conflitos de forma automática, mas em alguns casos, isso não é possível.*
