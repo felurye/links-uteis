@@ -87,6 +87,12 @@ In this tutorial, we will learn about the xpath and different XPath expression t
 **Previa:**
 >*If a simple XPath is not able to find a complicated web element for our test script, we need to use the functions from XPath 1.0 library. With the combination of these functions, we can create more specific XPath. Let's discuss a 3 such functions – 1. Contains; 2. Sibling; 3. Ancestor; 4.And OR; 5. Parent;*
 
+
+### [#](https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/) Stop using Page Objects and Start using App Actions
+
+**Previa:**
+>*Writing maintainable end-to-end tests is challenging. Often testers create another layer of indirection on top of the web page called page objects to execute common actions. In this post I argue that page objects are a bad practice, and suggest dispatching actions directly to the application’s internal logic. This works great with a modern Cypress.io test runner that runs the test code directly alongside the application’s code.*
+
 _______________________________
 ## Vídeos/Palestras
 
