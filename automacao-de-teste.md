@@ -74,6 +74,10 @@ técnicas automação, sendo ou por falta de conhecimento ou mão de obra especi
 >*No dia a dia de automação de testes encontramos problemas com a velocidade da execução dos testes. Acontece que, quando fazemos os cliques manualmente, 
 é natural esperarmos uma resposta do sistema para clicarmos novamente. Existe um grande trabalho de usabilidade para dar os melhores feedbacks ao usuário.*
 
+### [#](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Getting_Started/Seletores) Seletores
+
+**Previa:**
+>*Esta é a 5ª seção de Primeiros passos (Tutorial Css), ela explica como você pode aplicar estilos seletivamente e como diferentes tipos de seletores possuem diferentes prioridades. Você adiciona mais atributos para tags no seu documento e como você pode usa-los em sua folha de estilos.*
 
 ### [#](https://www.guru99.com/xpath-selenium.html) XPath in Selenium WebDriver: Complete Tutorial para aplicativos web
 
