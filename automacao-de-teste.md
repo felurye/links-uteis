@@ -1,5 +1,11 @@
 ## Artigos/Tutoriais
 
+### [#](https://martinfowler.com/articles/practical-test-pyramid.html) The Practical Test Pyramid
+
+**Previa:**
+>*The "Test Pyramid" is a metaphor that tells us to group software tests into buckets of different granularity. It also gives an idea of how many tests we should have in each of these groups. Although the concept of the Test Pyramid has been around for a while, teams still struggle to put it into practice properly.*
+
+
 
 ### [#](https://www.eduardopires.net.br/2012/06/ddd-tdd-bdd/) DDD, TDD, BDD, Afinal o que são essas siglas?
 
