@@ -13,6 +13,7 @@
 >*Muitas vezes pela internet em busca de novos conhecimentos nos deparamos com diversas siglas, estando elas anunciadas em algum requisito para desenvolvimento de
 sistema ou até mesmo citadas em alguma abordagem técnica.*
 
+
 ### [#](http://www.codeatest.com/testes-aceitacao-automatizados-selenium/) Testes de aceitação automatizados com Selenium
 
 **Previa:**
@@ -66,6 +67,7 @@ no ambiente real da aplicação, em função da sua integração direta com o na
 de testes de forma simples e utilizar nas mais diversas linguagens de programação. No geral, o script é gerado em HTML, porém pode ser 
 exportado e editado para testes em Java, C#, etc.*
 
+
 ### [#](https://medium.com/@rafaelberam/automa%C3%A7%C3%A3o-de-testes-cucumber-selenium-em-ruby-introdu%C3%A7%C3%A3o-e-conceitos-2bfa28793980) Automação de Testes: Cucumber + Selenium em Ruby (Introdução e conceitos)
 
 **Previa:**
@@ -80,10 +82,12 @@ técnicas automação, sendo ou por falta de conhecimento ou mão de obra especi
 >*No dia a dia de automação de testes encontramos problemas com a velocidade da execução dos testes. Acontece que, quando fazemos os cliques manualmente, 
 é natural esperarmos uma resposta do sistema para clicarmos novamente. Existe um grande trabalho de usabilidade para dar os melhores feedbacks ao usuário.*
 
+
 ### [#](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Getting_Started/Seletores) Seletores
 
 **Previa:**
 >*Esta é a 5ª seção de Primeiros passos (Tutorial Css), ela explica como você pode aplicar estilos seletivamente e como diferentes tipos de seletores possuem diferentes prioridades. Você adiciona mais atributos para tags no seu documento e como você pode usa-los em sua folha de estilos.*
+
 
 ### [#](https://www.guru99.com/xpath-selenium.html) XPath in Selenium WebDriver: Complete Tutorial para aplicativos web
 
@@ -102,6 +106,14 @@ In this tutorial, we will learn about the xpath and different XPath expression t
 
 **Previa:**
 >*Writing maintainable end-to-end tests is challenging. Often testers create another layer of indirection on top of the web page called page objects to execute common actions. In this post I argue that page objects are a bad practice, and suggest dispatching actions directly to the application’s internal logic. This works great with a modern Cypress.io test runner that runs the test code directly alongside the application’s code.*
+
+
+### [#](https://chercher.tech/java/handle-alerts-selenium-webdriver) Alerts in Selenium | driver.switchTo().alert()
+
+**Previa:**
+>*Alerts on the webpage used to get the attention of the user to perform some operation on the alert or the webpage; sometimes, the alert expects input from the user. All the alerts are formed using javascript inside the HTML page; there are three kinds of alerts in HTML.
+Alert takes the focus away from the current window and forces the browser to read the message. Alert prevents the user from accessing other parts of the web page until the box is closed.*
+
 
 _______________________________
 ## Vídeos/Palestras
