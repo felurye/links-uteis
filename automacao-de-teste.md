@@ -115,6 +115,11 @@ In this tutorial, we will learn about the xpath and different XPath expression t
 Alert takes the focus away from the current window and forces the browser to read the message. Alert prevents the user from accessing other parts of the web page until the box is closed.*
 
 
+### [#](https://qastack.com.br/programming/6509628/how-to-get-http-response-code-using-selenium-webdriver) Como obter o código de resposta HTTP usando o Selenium WebDriver
+
+**Previa:**
+>*É possível obter o código de resposta de uma solicitação http usando Selenium e Chrome ou Firefox. Tudo que você precisa fazer é iniciar o Chrome ou o Firefox no modo de registro. Vou mostrar alguns exemplos abaixo.*
+
 _______________________________
 ## Vídeos/Palestras
 
