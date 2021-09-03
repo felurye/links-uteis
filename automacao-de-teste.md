@@ -128,3 +128,10 @@ _______________________________
 **Previa:**
 >*Augusta Marques - Senior QA Engineer na Youse, fala sobre "Utilizando o padrão Page Object para melhorar a manutenibilidade de testes com Espresso" no Android Dev Conference 2017.*
 
+_______________________________
+## Ferramentas/Docs
+
+### [#](https://www.picklesdoc.com/) Pickles
+
+**Previa:**
+>*Pickles is a Living Documentation generator: it takes your Specification (written in Gherkin, with Markdown descriptions) and turns them into an always up-to-date documentation of the current state of your software - in a variety of formats.*
