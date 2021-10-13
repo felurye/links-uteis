@@ -120,6 +120,13 @@ Alert takes the focus away from the current window and forces the browser to rea
 **Previa:**
 >*É possível obter o código de resposta de uma solicitação http usando Selenium e Chrome ou Firefox. Tudo que você precisa fazer é iniciar o Chrome ou o Firefox no modo de registro. Vou mostrar alguns exemplos abaixo.*
 
+
+### [#](https://suhanap33.medium.com/performance-and-load-testing-with-jmeter-for-beginners-cbffb5d71674) Performance and Load Testing with JMeter for beginners
+
+**Previa:**
+>*Software testing is required to ensure that the application runs without any failures and software testing is a necessity unless and until there is software development. Before starting off, let’s firstly discuss what is load testing and performance testing.*
+
+
 _______________________________
 ## Vídeos/Palestras
 
