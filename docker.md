@@ -19,3 +19,8 @@ _______________________________
 
 **Previa:**
 >*Nessa aula ao vivo aprenderemos na prática criar do zero um ambiente utilizando Docker e Docker-compose. Vamos subir nosso ambiente de desenvolvimento em segundos.*
+
+### [#](https://www.youtube.com/watch?v=cmuS6tg__so&ab_channel=NyxTechnology) Ambiente com Laravel usando Docker
+
+**Previa:**
+>*Instalação de um ambiente local para Laravel usando Docker.*
