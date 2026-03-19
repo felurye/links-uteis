@@ -10,3 +10,15 @@
 **Previa:**
 
 > _O artigo conta bastidores de como o Akita colocou em produção, em apenas uma semana, um sistema completo de newsletter, podcast, blog estático e bot no Discord trabalhando em pair programming com um agente de IA (Claude Code). Ele mostra por que “IA programando sozinha” leva a protótipos frágeis e defende que o que realmente funciona é aplicar Extreme Programming clássico - TDD, small releases, refactoring contínuo, CI e foco no processo - usando a IA como par de desenvolvimento para acelerar decisões e execução sem perder qualidade nem segurança._
+
+## Cursos
+
+### [#](https://anthropic.skilljar.com) Anthropic courses
+
+**Tags:** [Inteligência Artificial, Anthropic, Claude Code]
+**Nível:** Básico/Intermediário/Avançado
+**Gratuito:** Sim
+
+**Previa:**
+
+> _Skilljar é um sistema de gestão de aprendizagem com conteúdo educacional da Anthropic. A plataforma permite uma experiências de aprendizagem interativa e com acompanhamento de progresso relacionada a todo ecossistema claude._
