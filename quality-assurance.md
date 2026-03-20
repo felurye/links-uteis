@@ -17,3 +17,27 @@
 **Previa:**
 
 > _O teste de API é igualmente importante como qualquer outro tipo de teste de aplicativo, pois ajuda a garantir o funcionamento, o desempenho e a confiabilidade de diferentes aplicativos e sistemas baseados em dados, ao certificar as trocas e comunicações entre aplicativos, sistemas, bancos de dados e redes. Além disso, quando analisamos as últimas tendências de teste de software, os testes de API estão na lista de prioridades para verificação das dependências dos aplicativos com outras aplicações. É por isso que precisamos nos concentrar mais no teste de API._
+
+## Contract Testing
+
+### [#](https://pactflow.io/blog/schemas-are-not-contracts/) Schemas Are Not Contracts - Pactflow
+
+**Tags:** [Contract Testing, Testing, API]
+**Nível:** Intermediário
+**Gratuito:** Sim
+**Data:** 2026-03-20
+
+**Previa:**
+
+> _Artigo explicando a diferença entre schemas e contracts no contexto de testes, abordando por que contract testing é mais poderoso que validação simples de schemas._
+
+### [#](https://pactflow.io/blog/contract-testing-using-json-schemas-and-open-api-part-1/) Contract Testing usando JSON Schemas e OpenAPI (Parte 1) - Pactflow
+
+**Tags:** [Contract Testing, JSON Schema, OpenAPI, Testing]
+**Nível:** Intermediário
+**Gratuito:** Sim
+**Data:** 2026-03-20
+
+**Previa:**
+
+> _Série de artigos sobre como implementar contract testing utilizando JSON Schemas e OpenAPI, com exemplos práticos e melhores práticas para garantir compatibilidade entre serviços._

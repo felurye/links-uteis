@@ -53,3 +53,29 @@
 **Previa:**
 
 > _Série de aulões dedicada ao Spring Boot, framework Java para desenvolvimento rápido de aplicações web._
+
+## Roadmaps
+
+### [#](https://coggle.it/diagram/XvkiVJG51VxsyNZy/t/o-que-aprender-para-ser-uma-desenvolvedora-java-coffee) O que aprender para ser uma Desenvolvedora Java ☕
+
+**Tags:** [Java, Roadmap, Carreira]
+**Nível:** Todos
+**Gratuito:** Sim
+**Data:** 2026-03-20
+
+**Previa:**
+
+> _Roadmap visual em Coggle mostrando o caminho de aprendizado para se tornar uma desenvolvedora Java, abrangendo linguagem, frameworks, ferramentas e boas práticas._
+
+## Design Patterns
+
+### [#](https://refactoring.guru/pt-br/design-patterns/java) Design Patterns em Java - Refactoring.guru
+
+**Tags:** [Design Patterns, Java, Padrões]
+**Nível:** Intermediário
+**Gratuito:** Sim
+**Data:** 2026-03-20
+
+**Previa:**
+
+> _Guia completo e interativo sobre design patterns implementados em Java, com exemplos de código, explicações detalhadas e casos de uso prácticos para cada padrão._
