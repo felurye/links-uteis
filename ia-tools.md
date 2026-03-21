@@ -46,6 +46,10 @@
 - Bardeen AI
 - AdCreative
 
+## Mind Mapping / Diagramação
+
+- [GitMind](https://gitmind.com/app/templates?lang=pt)
+
 ## Voz Para Texto
 
 - FluentlyAI

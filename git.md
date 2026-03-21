@@ -25,3 +25,16 @@
 **Previa:**
 
 > _Nowadays, versions control system (VCS) take important role in software engineer main tools to keep source-code management (maintainable purpose). There are some popular VCS on public such as CVS, SVN, Git, etc. In this article we will focus using Git version control to explain every examples about VCS Methodology._
+
+## Documentação
+
+### [#](https://docs.github.com/pt) Documentação GitHub em Português
+
+**Tags:** [GitHub, Documentação, Git]
+**Nível:** Todos
+**Gratuito:** Sim
+**Data:** 2026-03-21
+
+**Previa:**
+
+> _Documentação oficial e completa do GitHub em português, cobrindo todos os recursos, guias e referências para uso da plataforma._

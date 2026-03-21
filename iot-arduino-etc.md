@@ -19,3 +19,16 @@
 **Previa:**
 
 > _Cursos 100% online, gratuitos e com certificado. Cursos sobre IoT, programação, eletrônica básica, etc._
+
+## Plataformas de Prototipagem
+
+### [#](https://www.tinkercad.com/) Tinkercad
+
+**Tags:** [Prototipagem, IoT, Arduino, Eletrônica]
+**Nível:** Iniciante
+**Gratuito:** Sim
+**Data:** 2026-03-21
+
+**Previa:**
+
+> _Plataforma online gratuita para prototipagem de projetos com Arduino, simulação de circuitos eletrônicos e aprendizado prático de IoT._
