@@ -11,6 +11,41 @@
 
 > _O artigo conta bastidores de como o Akita colocou em produção, em apenas uma semana, um sistema completo de newsletter, podcast, blog estático e bot no Discord trabalhando em pair programming com um agente de IA (Claude Code). Ele mostra por que “IA programando sozinha” leva a protótipos frágeis e defende que o que realmente funciona é aplicar Extreme Programming clássico - TDD, small releases, refactoring contínuo, CI e foco no processo - usando a IA como par de desenvolvimento para acelerar decisões e execução sem perder qualidade nem segurança._
 
+## Vídeos/Palestras
+
+### [#](https://www.youtube.com/watch?v=Dq3R3uS0sQ4) How the CEO of Obsidian Takes his Notes (Underrated Genius)
+
+**Tags:** [Obsidian, Produtividade, Notas, Palestras]
+**Nível:** Intermediário
+**Gratuito:** Sim
+**Data:** 2026-04-04
+
+**Previa:**
+
+> _Vídeo sobre como o CEO da Obsidian organiza suas notas e utiliza a ferramenta Obsidian para gerenciar informações de forma eficiente e produtiva._
+
+### [#](https://www.youtube.com/watch?v=6MBq1paspVU) How I Use Obsidian + Claude Code to Run My Life
+
+**Tags:** [Obsidian, Claude, IA, Produtividade, Automação]
+**Nível:** Intermediário
+**Gratuito:** Sim
+**Data:** 2026-04-04
+
+**Previa:**
+
+> _Greg Isenberg demonstra como integra Obsidian com Claude Code para automatizar e gerenciar sua vida pessoal e profissional usando IA._
+
+### [#](https://www.youtube.com/watch?v=2KUF9BB_rh8) Transformei meu Obsidian em um cérebro para meus agentes de IA (Tutorial)
+
+**Tags:** [Obsidian, Agentes de IA, Claude, Automação, Tutorial]
+**Nível:** Intermediário
+**Gratuito:** Sim
+**Data:** 2026-04-04
+
+**Previa:**
+
+> _Tutorial de Rafael Quintanilha mostrando como transformar Obsidian em um sistema central de inteligência para agentes de IA, conectando com Claude e ferramentas de automação._
+
 ## Cursos
 
 ### [#](https://anthropic.skilljar.com) Anthropic courses
