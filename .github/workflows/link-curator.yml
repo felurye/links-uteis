@@ -1,0 +1,86 @@
+name: Link Curator
+
+on:
+  issues:
+    types: [opened, labeled]
+  workflow_dispatch:
+    inputs:
+      pedido:
+        description: "Descreva o link a adicionar (ex: https://example.com para a categoria Python)"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  auto-label:
+    name: Label issues with URLs
+    runs-on: ubuntu-latest
+    if: github.event_name == 'issues' && github.event.action == 'opened'
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ISSUE_BODY: ${{ github.event.issue.body }}
+    steps:
+      - name: Add add-link label if issue contains a URL
+        run: |
+          if echo "$ISSUE_BODY" | grep -qE 'https?://'; then
+            gh label create "add-link" \
+              --repo "$GITHUB_REPOSITORY" \
+              --color "0075ca" \
+              --description "Pedido de adicao de link" 2>/dev/null || true
+            gh issue edit "${{ github.event.issue.number }}" \
+              --repo "$GITHUB_REPOSITORY" \
+              --add-label "add-link"
+          fi
+
+  trigger-agent:
+    name: Trigger Link Curator agent
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'issues' &&
+      github.event.action == 'labeled' &&
+      github.event.label.name == 'add-link'
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Invoke agent via comment
+        run: |
+          gh issue comment "${{ github.event.issue.number }}" \
+            --repo "$GITHUB_REPOSITORY" \
+            --body "@github-copilot Adicione o(s) link(s) desta issue ao repositorio conforme as instrucoes em \`.github/agents/link-curator.agent.md\`."
+
+  manual-request:
+    name: Process workflow_dispatch request
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch'
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      PEDIDO: ${{ inputs.pedido }}
+    steps:
+      - name: Ensure add-link label exists
+        run: |
+          gh label create "add-link" \
+            --repo "$GITHUB_REPOSITORY" \
+            --color "0075ca" \
+            --description "Pedido de adicao de link" 2>/dev/null || true
+
+      - name: Create issue and trigger agent
+        id: issue
+        run: |
+          ISSUE_URL=$(gh issue create \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "add-link: $PEDIDO" \
+            --body "$PEDIDO" \
+            --label "add-link")
+          ISSUE_NUM=$(echo "$ISSUE_URL" | grep -oE '[0-9]+$')
+          echo "number=$ISSUE_NUM" >> "$GITHUB_OUTPUT"
+          echo "Issue criada: $ISSUE_URL"
+
+      - name: Invoke agent
+        run: |
+          gh issue comment "${{ steps.issue.outputs.number }}" \
+            --repo "$GITHUB_REPOSITORY" \
+            --body "@github-copilot Adicione o(s) link(s) desta issue ao repositorio conforme as instrucoes em \`.github/agents/link-curator.agent.md\`."
