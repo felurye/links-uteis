@@ -38,3 +38,29 @@
 **Previa:**
 
 > _Documentação oficial e completa do GitHub em português, cobrindo todos os recursos, guias e referências para uso da plataforma._
+
+## Prática/Exercícios
+
+### [#](http://learngitbranching.js.org/) Learn Git Branching
+
+**Tags:** [Git, Branching, Interativo, Visualização]
+**Nível:** Iniciante
+**Gratuito:** Sim
+**Data:** 2026-04-05
+
+**Previa:**
+
+> _Ferramenta visual e interativa para aprender os conceitos de branching do Git por meio de exercícios práticos e desafios progressivos diretamente no navegador._
+
+## Cursos
+
+### [#](https://gitmastery.me/) Git Mastery
+
+**Tags:** [Git, GitHub, Curso, Prática]
+**Nível:** Iniciante
+**Gratuito:** Não
+**Data:** 2026-04-05
+
+**Previa:**
+
+> _Plataforma de aprendizado estruturado com exercícios práticos e desafios para dominar Git e GitHub do básico ao avançado._
