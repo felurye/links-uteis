@@ -46,6 +46,19 @@
 
 > _Tutorial de Rafael Quintanilha mostrando como transformar Obsidian em um sistema central de inteligência para agentes de IA, conectando com Claude e ferramentas de automação._
 
+## Ferramentas/Docs
+
+### [#](https://github.com/fcakyon/claude-codex-settings) Claude Codex Settings
+
+**Tags:** [Claude Code, Codex, Agentes de IA, Configuração, GitHub]
+**Nível:** Intermediário
+**Gratuito:** Sim
+**Data:** 2026-05-07
+
+**Previa:**
+
+> _Repositório com configurações compartilháveis para alinhar e reaproveitar preferências entre Claude Code e Codex, facilitando a padronização do ambiente de agentes de IA._
+
 ## Cursos
 
 ### [#](https://anthropic.skilljar.com) Anthropic courses
