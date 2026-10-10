@@ -92,6 +92,17 @@
 
 > _Repositório com configurações compartilháveis para alinhar e reaproveitar preferências entre Claude Code e Codex, facilitando a padronização do ambiente de agentes de IA._
 
+### [#](https://getdesign.md/) getdesign.md - DESIGN.md collection for AI coding agents
+
+**Tags:** [Design, Agentes de IA, Claude Code, Design System, Ferramenta]
+**Nível:** Intermediário
+**Gratuito:** Não
+**Data:** 2026-10-10
+
+**Previa:**
+
+> _Catálogo de arquivos DESIGN.md com cores, tipografia, espaçamento, componentes e a lógica por trás deles, para que agentes de IA (Claude Code, Cursor, Codex, Gemini) construam páginas com visual consistente. Oferece catálogo navegável, templates Pro e geração de DESIGN.md privados._
+
 ## Cursos
 
 ### [#](https://anthropic.skilljar.com) Anthropic courses

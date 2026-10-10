@@ -50,7 +50,7 @@ jobs:
         run: |
           gh issue comment "${{ github.event.issue.number }}" \
             --repo "$GITHUB_REPOSITORY" \
-            --body "@github-copilot Adicione o(s) link(s) desta issue ao repositorio conforme as instrucoes em \`.github/agents/link-curator.agent.md\`."
+            --body "@github-copilot Adicione o(s) link(s) desta issue ao repositorio conforme as instrucoes da skill \`.agents/skills/link-curator/SKILL.md\`."
 
   manual-request:
     name: Process workflow_dispatch request
@@ -83,4 +83,4 @@ jobs:
         run: |
           gh issue comment "${{ steps.issue.outputs.number }}" \
             --repo "$GITHUB_REPOSITORY" \
-            --body "@github-copilot Adicione o(s) link(s) desta issue ao repositorio conforme as instrucoes em \`.github/agents/link-curator.agent.md\`."
+            --body "@github-copilot Adicione o(s) link(s) desta issue ao repositorio conforme as instrucoes da skill \`.agents/skills/link-curator/SKILL.md\`."
