@@ -103,6 +103,28 @@
 
 > _Catálogo de arquivos DESIGN.md com cores, tipografia, espaçamento, componentes e a lógica por trás deles, para que agentes de IA (Claude Code, Cursor, Codex, Gemini) construam páginas com visual consistente. Oferece catálogo navegável, templates Pro e geração de DESIGN.md privados._
 
+### [#](https://guardrailsai.com/hub) Guardrails Hub
+
+**Tags:** [Guardrails, LLM, Validação, Segurança]
+**Nível:** Intermediário/Avançado
+**Gratuito:** Sim
+**Data:** 2026-10-11
+
+**Previa:**
+
+> _Catálogo com mais de 60 validadores (guardrails) prontos para aplicações com LLMs, filtráveis por caso de uso, categoria de risco e tipo de conteúdo. Cobre detecção de PII, prompt injection, jailbreak, toxicidade e alucinações, além de validação de formatos como JSON, SQL e HTML, com geração de código para integrar os validadores escolhidos._
+
+### [#](https://paperclip.ing/) Paperclip
+
+**Tags:** [Agentes de IA, Automação, Orquestração, Open Source]
+**Nível:** Intermediário/Avançado
+**Gratuito:** Sim
+**Data:** 2026-10-11
+
+**Previa:**
+
+> _Plataforma para gerenciar agentes de IA (Claude, Codex, Cursor, Gemini) como uma equipe de trabalho: define metas, hierarquia, orçamento por agente e log de auditoria das tarefas. A versão self-hosted é open source (licença MIT); a versão em nuvem está em lista de espera._
+
 ## Cursos
 
 ### [#](https://anthropic.skilljar.com) Anthropic courses
